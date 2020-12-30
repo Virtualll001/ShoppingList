@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcAq1jAkAure3CYLfmGzemwY5wuxzWhOPpD9132fRdHjQd8EDMGP/9v37PUe7AB/923HSbrGGgd7qrB1ue4flA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lonet\\source\\repos\\NakupniSeznam\\NakupniSeznam\\NakupniSeznam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lonet\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\lonet\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\lonet\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

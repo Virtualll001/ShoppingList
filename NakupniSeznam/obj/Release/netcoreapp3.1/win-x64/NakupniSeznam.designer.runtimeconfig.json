@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "3.1.8"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\lonet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lonet\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
